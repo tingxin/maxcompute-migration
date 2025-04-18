@@ -28,3 +28,6 @@ pip install -r requirement.txt
 
 python3 app.py
 ```
+
+## 其他
+DTH 参考 https://docs.aws.amazon.com/zh_cn/solutions/latest/data-transfer-hub/deploy-the-solution.html
