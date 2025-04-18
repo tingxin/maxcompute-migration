@@ -1,0 +1,17 @@
+2025-04-18 06:36:58,728 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 06:59:40,118 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:00:19,541 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:02:51,207 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:04:34,371 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:05:55,996 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:06:43,291 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:07:06,871 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:07:53,669 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:25:40,572 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:25:50,561 INFO: [unload][test1]===>BEGION ANALYZE RUN s_order_anchor!
+2025-04-18 07:26:46,164 INFO: [unload][test1]===>BEGION ANALYZE RUN dws_order_kol_detail_df!
+2025-04-18 07:26:55,281 INFO: [unload][test1]===>BEGION ANALYZE RUN s_order_anchor!
+2025-04-18 07:27:02,509 INFO: BEGIN TO UNLOAD DATA dws_order_kol_detail_df==>ds=20250417
+2025-04-18 07:27:13,354 INFO: BEGIN TO UNLOAD DATA dws_order_kol_detail_df==>ds=20250419
+2025-04-18 07:27:19,619 INFO: BEGIN TO UNLOAD DATA s_order_anchor==>ds=20250417
+2025-04-18 07:27:26,329 INFO: BEGIN TO UNLOAD DATA s_order_anchor==>ds=20250419
