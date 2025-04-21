@@ -30,4 +30,23 @@ python3 app.py
 ```
 
 ## 其他
+### 使用rclone进行对象存储数据迁移
+1. 安装
+```
+curl https://rclone.org/install.sh | sudo bash
+```
+2. 配置
+```
+rclone config
+```
+3. 使用
+```
+rclone copy 参数
+例如：
+rclone copy oss1:data-zip/maxdata/ aws1:tx-demo-data/maxdata/
+```
+4. 详细问题参考
+![rclone 参考文档](./assets/Rclone使用手册-v1.1.pdf)
+./assets/Rclone使用手册-v1.1.pdf
+### 使用DTH进行对象存储数据迁移
 DTH 参考 https://docs.aws.amazon.com/zh_cn/solutions/latest/data-transfer-hub/deploy-the-solution.html

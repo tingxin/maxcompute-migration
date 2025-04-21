@@ -53,10 +53,10 @@ class EWorkerThread(threading.Thread):
                 o.execute_sql(cmd)
             except IndexError:
                 # 如果队列为空，退出线程
-                print(f"Thread {self.index}: No more data to process. Exiting.")
+                logger.info(f"Thread {self.index}: No more data to process. Exiting.")
                 break
             except Exception as ex:
-                print(f"Thread {self.index}: {ex}")
+                logger.error(f"Thread {self.index}: {ex}")
                 
 
 
